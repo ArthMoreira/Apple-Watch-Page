@@ -15,3 +15,6 @@
 
 ## Entre em contato
 [LinkedIn](https://www.linkedin.com/in/thurmoreira/)
+
+- Modelo do Figma
+![Captura de tela 2024-11-29 164951](https://github.com/user-attachments/assets/543c4b50-99c2-4a23-98c0-23020ca5183b)
