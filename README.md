@@ -14,8 +14,8 @@
 ![Captura de tela 2024-11-29 164951](https://github.com/user-attachments/assets/543c4b50-99c2-4a23-98c0-23020ca5183b)
 
 ## Veja o projeto:
-[Clique aqui para acessar](https://arthmoreira.github.io/Apple-Watch-Page/target="_blank")
+[Clique aqui para acessar](https://arthmoreira.github.io/Apple-Watch-Page/)
 
 ## Entre em contato
-[LinkedIn](https://www.linkedin.com/in/thurmoreira/target="_blank")
+[LinkedIn](https://www.linkedin.com/in/thurmoreira/)
 
